@@ -1,0 +1,2 @@
+c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4.WinPhone\App4.WinPhone.csproj;neutral
+c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4\App4.csproj;neutral
