@@ -13,5 +13,3 @@ c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4\obj\
 c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4\obj\Debug\App4.App.xaml.g.cs
 c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4\obj\Debug\App4.dll
 c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4\obj\Debug\App4.pdb
-c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4\obj\Debug\App4.dll.mdb
-c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4\bin\Debug\App4.dll.mdb

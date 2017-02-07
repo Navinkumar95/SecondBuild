@@ -1,2 +1,2 @@
-c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4.Windows\App4.Windows.csproj;neutral
-c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4\App4.csproj;neutral
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Windows\App4.Windows.csproj;neutral
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4\App4.csproj;neutral

@@ -15,9 +15,10 @@
     <FileAlignment>512</FileAlignment>
     <SynthesizeLinkMetadata>true</SynthesizeLinkMetadata>
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <PackageCertificateKeyFile>Windows_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateKeyFile>App4.Windows_TemporaryKey.pfx</PackageCertificateKeyFile>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <PackageCertificateThumbprint>689FEFB44B10CC6706EFD950E047DFE801BDDF4D</PackageCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -117,6 +118,7 @@
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <None Include="App4.Windows_TemporaryKey.pfx" />
     <None Include="packages.config" />
     <None Include="Windows_TemporaryKey.pfx" />
   </ItemGroup>
