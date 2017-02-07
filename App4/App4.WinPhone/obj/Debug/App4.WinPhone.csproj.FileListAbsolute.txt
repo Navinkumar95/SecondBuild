@@ -45,7 +45,3 @@ c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4.WinP
 c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
 c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri.xml
 c:\users\administrator\documents\visual studio 2015\Projects\App4\App4\App4.WinPhone\obj\Debug\ProjectArchitectures.txt
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.WinPhone\obj\Debug\package.map.txt
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.WinPhone\obj\Debug\_pkginfo.txt
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.WinPhone\obj\Debug\Stripped\App4.WinPhone.pdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.WinPhone\obj\Debug\Stripped\App4.pdb

@@ -37,19 +37,6 @@ C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droi
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Administrator\documents\visual studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\App4.Droid.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\App4.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\Java.Interop.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\Mono.Android.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\mscorlib.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\System.Core.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\System.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\System.Net.Http.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\System.Xml.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\System.Xml.Linq.dll.mdb
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\obj\Debug\android\assets\App4.dll.mdb
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\obj\Debug\android\assets\App4.Droid.dll.mdb
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
@@ -67,5 +54,5 @@ C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droi
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\obj\Debug\App4.Droid.dll.mdb
-C:\Users\Administrator\Documents\Visual Studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\App4.Droid.dll.mdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\App4\App4\App4.Droid\obj\Debug\App4.Droid.dll.mdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\App4\App4\App4.Droid\bin\Debug\App4.Droid.dll.mdb
