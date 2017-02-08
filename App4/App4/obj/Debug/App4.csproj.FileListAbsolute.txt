@@ -23,3 +23,5 @@ C:\Users\Administrator\documents\visual studio 2015\Projects\App4\App4\App4\obj\
 C:\Users\Administrator\documents\visual studio 2015\Projects\App4\App4\App4\bin\Debug\App4.dll.mdb
 C:\Users\Administrator\documents\visual studio 2015\Projects\App4\App4\App4\obj\Debug\App4.dll.mdb
 C:\Users\Administrator\documents\visual studio 2015\Projects\App4\App4\App4\bin\Debug\App4.dll.mdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\App4\App4\App4\obj\Debug\App4.dll.mdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\App4\App4\App4\bin\Debug\App4.dll.mdb
